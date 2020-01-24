@@ -1,0 +1,24 @@
+.board {
+    width: 40%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.info {
+    font-size: 20px;
+    margin-left: 50px;
+    width: 265px;
+
+}
+
+.move-history {
+    max-height: 100px;
+    overflow-y: scroll;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
